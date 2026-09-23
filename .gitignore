@@ -1,0 +1,9 @@
+.DS_Store
+*.swp
+*.tmp
+__pycache__/
+config.env
+*.local.env
+.env
+.env.*
+!.env.example

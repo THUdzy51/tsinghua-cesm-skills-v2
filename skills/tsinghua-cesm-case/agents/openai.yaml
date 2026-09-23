@@ -1,0 +1,3 @@
+display_name: Tsinghua CESM Case
+short_description: Manage CESM cases on Tsinghua B5000
+default_prompt: Create or modify a CESM/CTSM case on the Tsinghua supercomputer using my standard B5000 paths, CruJRA forcing workflow, namelist checks, and build/submit procedure.
